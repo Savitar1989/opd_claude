@@ -4,7 +4,7 @@ from queue import Queue
 from typing import Dict
 
 # =============== KONFIGURÁCIÓS BEÁLLÍTÁSOK ===============
-BOT_TOKEN = "7741178469:AAEXmDVBCDCp6wY0AzPzxpuEzNRcKId86_o"
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 WEBAPP_URL = "https://e1d404acf189.ngrok-free.app"  # ha iPad/ngrok: "https://<valami>.ngrok-free.app"
 DB_NAME = "restaurant_orders.db"
 
